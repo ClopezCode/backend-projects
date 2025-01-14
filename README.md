@@ -12,12 +12,11 @@ Este repositorio contiene proyectos orientados a arquitecturas backend modernas,
 1. **API REST para Gestión de Usuarios**  
    Una API robusta que permite el registro, autenticación y administración de usuarios.  
    - **Tecnologías**: Flask, SQLAlchemy, JWT  
-   - [Más detalles aquí](./rest-api/README.md)
+ 
 
 2. **Sistema de Autenticación con OAuth2**  
    Implementación de OAuth2 para garantizar la seguridad en aplicaciones web y móviles.  
    - **Tecnologías**: Node.js, Express.js, MongoDB  
-   - [Más detalles aquí](./authentication-system/README.md)
 
 ---
 
