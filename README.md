@@ -9,9 +9,9 @@ Este repositorio contiene proyectos orientados a arquitecturas backend modernas,
 - Herramientas: Docker, Postman
 
 ## 📂 Proyectos destacados:
-1. **API REST para Gestión de Usuarios**  
-   Una API robusta que permite el registro, autenticación y administración de usuarios.  
-   - **Tecnologías**: Flask, SQLAlchemy, JWT  
+1. **API REST para Gestión de Usuarios, ejercicios y rutinas deportivas**  
+   Esta es una API Restful desarrollada para la gestión de usuarios, ejercicios y rutinas deportivas. 
+   - **Tecnologías**: Python , FastAPI, PostgreSQL, SQLAlchemy, Pytest  
  
 
 2. **Sistema de Autenticación con OAuth2**  
