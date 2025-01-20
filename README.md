@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Backend Projects 🔧
 
 Este repositorio contiene proyectos orientados a arquitecturas backend modernas, incluyendo APIs RESTful, sistemas escalables y microservicios.
@@ -21,8 +21,6 @@ Este repositorio contiene proyectos orientados a arquitecturas backend modernas,
 
 ---
 
-¡Revisa los proyectos y hablemos sobre cómo podemos mejorar juntos! 🚀
-=======
 # API Restful Deportiva
 
 Esta es una API Restful desarrollada para la gestión de usuarios, ejercicios y rutinas deportivas. Está construida utilizando **FastAPI** y conectada a una base de datos relacional con **PostgreSQL**. Además, cuenta con pruebas automatizadas mediante **Pytest** para garantizar la calidad y funcionalidad del proyecto.
@@ -96,5 +94,5 @@ Redoc: http://127.0.0.1:8000/redoc
 Ejecuta las pruebas con Pytest para verificar la funcionalidad de la API:
 
 pytest
->>>>>>> aeb1a27 (Subir proyecto inicial del API Restful)
+
 
